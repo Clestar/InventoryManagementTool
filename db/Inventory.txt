@@ -1,0 +1,100 @@
+1|Apple|10|500g|Fruit|2023-12-01
+2|Milk|3|1L|Dairy|2023-11-20
+3|Tteokbokki|5|300g|Snack|2023-11-25
+4|Chicken Breast|8|200g|Meat|2023-11-22
+5|Rice|2|5kg|Grain|2024-01-01
+6|Sea Bass|2|600g|Seafood|2023-11-19
+7|Cheese|1|250g|Dairy|2023-11-23
+8|Tomato|6|400g|Vegetable|2023-11-28
+9|Ramen|12|120g|Snack|2023-12-05
+10|Cucumber|4|300g|Vegetable|2023-11-26
+11|Orange|15|700g|Fruit|2023-12-10
+12|Yogurt|2|500g|Dairy|2023-11-21
+13|Pasta|3|300g|Grain|2023-12-15
+14|Salmon|4|450g|Seafood|2023-11-18
+15|Carrot|8|200g|Vegetable|2023-11-30
+16|Chocolate|2|100g|Snack|2023-12-08
+17|Beef|5|350g|Meat|2023-11-24
+18|Lettuce|3|250g|Vegetable|2023-11-29
+19|Cereal|1|400g|Grain|2023-12-02
+20|Grapes|7|600g|Fruit|2023-12-12
+21|Potato|4|300g|Vegetable|2023-12-07
+22|Eggplant|3|200g|Vegetable|2023-12-14
+23|Pineapple|2|1kg|Fruit|2023-12-20
+24|Peanut Butter|1|400g|Spread|2023-11-27
+25|Shrimp|6|250g|Seafood|2023-11-23
+26|Blueberries|5|150g|Fruit|2023-12-04
+27|Bread|2|500g|Bakery|2023-11-26
+28|Broccoli|3|300g|Vegetable|2023-11-30
+29|Cottage Cheese|1|200g|Dairy|2023-11-21
+30|Almonds|4|250g|Nuts|2023-12-10
+31|Spinach|5|150g|Vegetable|2023-12-18
+32|Watermelon|1|5kg|Fruit|2023-12-15
+33|Ham|3|200g|Meat|2023-11-29
+34|Mango|2|600g|Fruit|2023-11-24
+35|Quinoa|1|500g|Grain|2023-12-01
+36|Kiwi|4|200g|Fruit|2023-12-09
+37|Hot Sauce|1|150ml|Condiment|2023-12-03
+38|Pork Chops|2|300g|Meat|2023-11-22
+39|Cauliflower|3|250g|Vegetable|2023-12-08
+40|Olive Oil|1|500ml|Condiment|2023-11-28
+41|Lemon|4|200g|Fruit|2023-11-25
+42|Peach|2|300g|Fruit|2023-12-14
+43|Cabbage|1|1kg|Vegetable|2023-11-30
+44|Hazelnuts|3|200g|Nuts|2023-12-16
+45|Salami|1|150g|Meat|2023-12-06
+46|Tuna|2|200g|Canned|2023-11-23
+47|Artichoke|3|250g|Vegetable|2023-12-12
+48|Cantaloupe|1|2kg|Fruit|2023-12-17
+49|Soy Milk|4|1L|Dairy|2023-11-21
+50|Papaya|2|400g|Fruit|2023-12-09
+51|Pistachios|5|250g|Nuts|2023-12-02
+52|Zucchini|3|300g|Vegetable|2023-12-15
+53|Pears|6|500g|Fruit|2023-12-05
+54|Ground Beef|2|400g|Meat|2023-11-28
+55|Cherries|1|300g|Fruit|2023-12-10
+56|Cottage Cheese|2|300g|Dairy|2023-11-22
+57|Guava|3|250g|Fruit|2023-12-03
+58|Turkey|1|4kg|Meat|2023-12-18
+59|Sesame Oil|1|250ml|Condiment|2023-11-27
+60|Brussels Sprouts|4|200g|Vegetable|2023-11-29
+61|Oats|2|1kg|Grain|2023-12-12
+62|Cucumber|3|300g|Vegetable|2023-11-26
+63|Cranberries|1|250g|Fruit|2023-12-16
+64|Chickpeas|4|400g|Legumes|2023-12-07
+65|Walnuts|2|200g|Nuts|2023-11-23
+66|Apricots|3|300g|Fruit|2023-12-05
+67|Bacon|1|200g|Meat|2023-12-18
+68|Chives|2|100g|Herb|2023-12-01
+69|Granola|1|500g|Grain|2023-11-27
+70|Plums|5|300g|Fruit|2023-12-14
+71|Ground Turkey|3|350g|Meat|2023-11-22
+72|Pumpkin Seeds|1|200g|Nuts|2023-12-03
+73|Asparagus|2|250g|Vegetable|2023-11-28
+74|Peaches|4|400g|Fruit|2023-12-08
+75|Cheddar Cheese|1|300g|Dairy|2023-12-18
+76|Black Beans|3|400g|Legumes|2023-12-12
+77|Dates|2|250g|Fruit|2023-11-29
+78|Corn|4|400g|Vegetable|2023-11-25
+79|Cashews|1|150g|Nuts|2023-12-10
+80|Honey|1|500g|Condiment|2023-12-15
+81|Pumpkin|1|2kg|Vegetable|2023-11-21
+82|Brie|2|200g|Dairy|2023-11-23
+83|Cilantro|3|100g|Herb|2023-11-26
+84|Pine Nuts|1|150g|Nuts|2023-12-05
+85|Ground Pork|2|300g|Meat|2023-12-16
+86|Sour Cream|1|200g|Dairy|2023-11-30
+87|Sunflower Seeds|4|250g|Nuts|2023-12-07
+88|Leeks|2|200g|Vegetable|2023-12-02
+89|Feta Cheese|1|200g|Dairy|2023-12-09
+90|Ginger|3|100g|Spice|2023-12-20
+91|Salad Dressing|1|250ml|Condiment|2023-11-24
+92|Parsley|2|100g|Herb|2023-11-26
+93|Cranberry Juice|3|1L|Beverage|2023-11-29
+94|Swiss Cheese|1|200g|Dairy|2023-12-08
+95|Chickpea Flour|2|500g|Grain|2023-12-10
+96|Paprika|1|50g|Spice|2023-12-15
+97|Cherry Tomatoes|4|300g|Vegetable|2023-12-18
+98|Coconut Milk|2|400ml|Canned|2023-11-21
+99|Parmesan Cheese|1|150g|Dairy|2023-12-05
+100|Blackberries|3|250g|Fruit|2023-12-12

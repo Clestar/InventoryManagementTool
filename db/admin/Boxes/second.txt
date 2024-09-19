@@ -1,0 +1,8 @@
+11|Orange|30|700g|Fruit|2023-12-10|
+8|Tomato|8|400g|Vegetable|2023-11-28|
+1|Apple|10|500g|Fruit|2023-12-01|
+2|Milk|3|1L|Dairy|2023-11-20|
+3|Tteokbokki|5|300g|Snack|2023-11-25|
+4|Chicken Breast|8|200g|Meat|2023-11-22|
+6|Sea Bass|2|600g|Seafood|2023-11-19|
+49|Soy Milk|4|1L|Dairy|2023-11-21|

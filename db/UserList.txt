@@ -1,0 +1,5 @@
+admin|admin
+test|1234
+aaa|bbb
+qwe|qwe
+admin2|qwer
